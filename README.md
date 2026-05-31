@@ -24,9 +24,15 @@ Shipped **10+ production apps** · **3+ years** mobile · enterprise-grade archi
 [![Pages Repo](https://img.shields.io/badge/📦_GitHub_Pages-Deploy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satwinder777/satwinder777.github.io)
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&lines=Extreme+Flutter+Engineer+⚡;Clean+Architecture+·+120fps+Obsession;Firebase+·+Supabase+·+Real-time+Maps;Ship+ideas+→+apps+people+use+daily+🚀" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=860&height=60&lines=Senior+Flutter+Engineer+%E2%9A%A1;Clean+Architecture+%C2%B7+120fps+Obsession;Firebase+%C2%B7+Supabase+%C2%B7+Real-time+Maps;Ship+ideas+%E2%86%92+apps+people+use+daily+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-00D9FF?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FF6F00?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/120fps-Obsessed-FF4081?style=flat-square" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Satwinder777&icon=5&color=0)](https://visitcount.itsvg.in)
@@ -35,12 +41,6 @@ Shipped **10+ production apps** · **3+ years** mobile · enterprise-grade archi
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Satwinder777&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -112,6 +112,11 @@ Shipped **10+ production apps** · **3+ years** mobile · enterprise-grade archi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,firebase,supabase,nodejs,git,github,figma,gradle&perline=6" alt="Skill icons"/>
 </p>
+
+---
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Satwinder777&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
